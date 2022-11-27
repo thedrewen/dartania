@@ -1,0 +1,9 @@
+div.container div.mc_serv img{
+    width: 1000px;
+    transition: 1s;
+}
+
+div.container div.mc_serv img:hover {
+    transition: 1s;
+	width: 1050px;
+}
